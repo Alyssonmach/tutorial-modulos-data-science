@@ -1,11 +1,8 @@
-# Ambiente de desenvolvimento
-ipython
+# Ambiente e execução dos notebooks
 jupyter
+ipython
 
-# Módulos de análise
+# Análise e visualização de dados
 numpy
 pandas
-
-# Módulos de visualizaço
 matplotlib
-seaborn
